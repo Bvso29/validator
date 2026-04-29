@@ -23,7 +23,7 @@ API ReceitaWS
 
 📦 Como usar
 Clone o repositório:
-git clone https://github.com/seu-usuario/seu-repo.git
+git clone https://github.com/Bvso29/validator
 Instale as dependências:
 npm install
 Execute o projeto:
